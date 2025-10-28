@@ -98,11 +98,5 @@ It allows users to:
 
 ---
 
-### 📷 Screenshots
-| Overview Dashboard | Department Drill-through | Tooltip Insights |
-|--------------------|--------------------------|------------------|
-| ![Overview](screenshots/overview_dashboard.png) | ![Department](screenshots/department_details.png) | ![Tooltip](screenshots/tooltip_insights.png) |
-
----
 
 ### 📂 Project Structure
